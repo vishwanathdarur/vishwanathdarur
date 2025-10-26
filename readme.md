@@ -5,19 +5,22 @@
 ---
 
 ### 🚀 About Me
--    Studying 3rd year in Indian institute of information technology Kottaya
-- 🎓 Student passionate about problem-solving and optimization  
-- 🧠 Love working on algorithms, data structures, and AI-based systems.  
-- 💼 Coder's Club Coordinator  
-- 🎖️ Meta Hacker Cup 2025 Round 2 (Rank 2460)  
----
+- 🎓 **3rd Year Student** at Indian Institute of Information Technology, Kottayam  
+- 🧠 **Passionate about algorithms, data structures and development**   git 
+- 💡 **Problem Solver** with a love for optimization challenges  
+- 💼 **Coder's Club Coordinator**  
+- 🏅 **Meta Hacker Cup 2025 Round 2** – Rank **2460**
 
 <br>
+
+
+--- 
+
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
     <a href="https://codeforces.com/profile/vishwanathdarur27" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishwa" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> Expert on Codeforces (handle: <a href="https://codeforces.com/profile/shxun" target="_blank">Vishwanath Darur</a>, max_rating: 1409)</strong>
+    </a><strong style="padding-left: 15px"> --> Expert on Codeforces (handle: <a href="https://codeforces.com/profile/shxun" target="_blank">Vishwanath Darur</a>, max_rating: 1407)</strong>
     <br><br>
     <a href="https://codechef.com/users/vishwadarur27" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/u/11960354" alt="vishwa" height="60" width="60"/>
@@ -25,9 +28,11 @@
     <br><br>
     <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/leetcode" alt="vishwa" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> 1750 on Leetcode (handle: <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">Vishwanath Darur</a>, max_rating: 1749)</strong>
+    </a><strong style="padding-left: 15px"> --> 1706 on Leetcode (handle: <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">Vishwanath Darur</a>, max_rating: 1749)</strong>
 </p>
 <br>
+
+--- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,38 +43,37 @@
         <img style="margin-left: 30px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwanathdarur" width="55"/>
     </a>
 </p>
-<p>
-<br>
+
+
+---
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    </a>
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="60" height="60"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
+    </a>
+</p>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-</a>
-
-<a href="https://www.autohotkey.com" target="_blank" rel="roreferrer">
-    <img src="https://karmanivero.us/assets/images/logo-autohotkey.png" alt="AutoHotkey" width="60" height="60"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-</a>
+---
 
 
 ### 📈 Stats
@@ -77,9 +81,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwanathDarur&layout=compact&theme=tokyonight)
 
 ---
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwanathdarur)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/vishwanath_darur)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/vishwanathdarur27)
 
