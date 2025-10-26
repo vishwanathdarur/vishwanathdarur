@@ -20,11 +20,11 @@
 <p align="left">
     <a href="https://codeforces.com/profile/vishwanathdarur27" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vishwa" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> Expert on Codeforces (handle: <a href="https://codeforces.com/profile/shxun" target="_blank">Vishwanath Darur</a>, max_rating: 1407)</strong>
+    </a><strong style="padding-left: 15px"> --> Expert on Codeforces (handle: <a href="https://codeforces.com/profile/vishwanathdarur27" target="_blank">Vishwanath Darur</a>, max_rating: 1407)</strong>
     <br><br>
     <a href="https://codechef.com/users/vishwadarur27" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/u/11960354" alt="vishwa" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> 4 Star on CodeChef (handle: <a href="https://www.codechef.com/users/vishwadarur27" target="_blank">Vishwanath Darur</a>, max_rating: 1749)</strong>
+    </a><strong style="padding-left: 15px"> --> 3 Star on CodeChef (handle: <a href="https://www.codechef.com/users/vishwadarur27" target="_blank">Vishwanath Darur</a>, max_rating: 1749)</strong>
     <br><br>
     <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/leetcode" alt="vishwa" height="60" width="60"/>
