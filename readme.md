@@ -75,10 +75,10 @@
 
 ---
 
-
+<!-- 
 ### 📈 Stats
 ![Vishwanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishwanathDarur&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwanathDarur&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwanathDarur&layout=compact&theme=tokyonight) -->
 
 ---
 
