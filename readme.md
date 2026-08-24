@@ -28,7 +28,7 @@
     <br><br>
     <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/leetcode" alt="vishwa" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> 1706 on Leetcode (handle: <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">Vishwanath Darur</a>, max_rating: 1749)</strong>
+    </a><strong style="padding-left: 15px"> --> Knight on Leetcode (handle: <a href="https://leetcode.com/u/vishwanath_darur/" target="_blank">Vishwanath Darur</a>, max_rating: 1870)</strong>
 </p>
 <br>
 
