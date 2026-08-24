@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Vishwanath Darur!
-
-🎯 **Competitive Programmer** | 💻 **C++ Developer** | 
-
 ---
 
 ### 🚀 About Me
